@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Daily save</string>
+    <string name="title_activity_main">Daily save</string>
+    <string name="Total_Amount_in_USD">Total Amount in USD</string>
+    <string name="Total_Amount_in_RS">Total Amount in RS</string>
+    <string name="Please_enter_your_amount">Please enter your amount</string>
+    <string name="Write_something_here">Write something here...</string>
+    <string name="Save">Save</string>
+    <string name="Enter_a_note">Enter a note</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_wallet">WalletActivity</string>
+
+</resources>

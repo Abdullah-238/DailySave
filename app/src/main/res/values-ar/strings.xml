@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">المصاريف اليومية</string>
+    <string name="title_activity_main">المصاريف اليومية</string>
+    <string name="Total_Amount_in_USD">إجمالي المبلغ بالدولار</string>
+    <string name="Total_Amount_in_RS">إجمالي المبلغ بالروبية</string>
+    <string name="Please_enter_your_amount">يرجى إدخال المبلغ</string>
+    <string name="Write_something_here">اكتب شيئًا هنا...</string>
+    <string name="Save">حفظ</string>
+    <string name="Enter_a_note">أدخل ملاحظة</string>
+    <string name="title_activity_tab">شاشة التبويبات</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_dashboard">لوحة التحكم</string>
+    <string name="title_notifications">الإشعارات</string>
+</resources>
